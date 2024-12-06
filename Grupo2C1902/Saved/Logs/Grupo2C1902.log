@@ -992,3 +992,4 @@ Recommended: 30.0.101.1340
 [2024.12.06-00.16.08:144][  0]LogContentStreaming: Texture pool size now 400 MB
 [2024.12.06-00.16.08:372][  0]LogSlate: Took 0.001816 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2024.12.06-00.16.09:298][  3]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.12.06-00.17.23:707][254]LogDerivedDataCache: C:/Users/Gonza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.298 and deleted 0 file(s) with total size 0 MiB.
