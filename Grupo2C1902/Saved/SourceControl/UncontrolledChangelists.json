@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/StarterContent/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
