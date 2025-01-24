@@ -6,7 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/StarterContent/Maps/Minimal_Default.umap"
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/Meshes/MeshDelReloj.uasset",
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/MeshDelReloj.uasset",
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/Materiales/M_Hologram.uasset",
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/HealthAndDamage/BP_HealthComponent.uasset",
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/HealthAndDamage/BP_HealthPickup.uasset",
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/HealthAndDamage/WBP_BarraHealthUI.uasset",
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/HealthAndDamage/BP_BurningGround.uasset",
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/ReloadMec/WBP_ContadorDeBalas.uasset",
+				"C:/Users/Nitram Rijo/Documents/Grupo2C1902/Grupo2C1902/Content/M_Hologram.uasset"
 			]
 		}
 	]
