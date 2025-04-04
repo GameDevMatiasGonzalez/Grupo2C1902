@@ -1,0 +1,362 @@
+ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
+0,/ControlRig/Controls/ControlRig_Arrow2_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow2_1mm,19288,None
+0,/ControlRig/Controls/ControlRig_Arrow2_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow2_3mm,19410,None
+0,/ControlRig/Controls/ControlRig_Arrow2_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow2_solid,13840,None
+0,/ControlRig/Controls/ControlRig_Arrow4_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow4_1mm,35596,None
+0,/ControlRig/Controls/ControlRig_Arrow4_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow4_3mm,35718,None
+0,/ControlRig/Controls/ControlRig_Arrow4_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow4_solid,24092,None
+0,/ControlRig/Controls/ControlRig_Arrow_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow_1mm,16939,None
+0,/ControlRig/Controls/ControlRig_Arrow_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow_3mm,17061,None
+0,/ControlRig/Controls/ControlRig_Arrow_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow_solid,13507,None
+0,/ControlRig/Controls/ControlRig_Box_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Box_1mm,217303,None
+0,/ControlRig/Controls/ControlRig_Box_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Box_3mm,113507,None
+0,/ControlRig/Controls/ControlRig_Box_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Box_solid,25163,None
+0,/ControlRig/Controls/ControlRig_Circle_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Circle_1mm,51196,None
+0,/ControlRig/Controls/ControlRig_Circle_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Circle_3mm,50562,None
+0,/ControlRig/Controls/ControlRig_Circle_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Circle_solid,31784,None
+0,/ControlRig/Controls/ControlRig_Diamond_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Diamond_1mm,464115,None
+0,/ControlRig/Controls/ControlRig_Diamond_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Diamond_3mm,302933,None
+0,/ControlRig/Controls/ControlRig_Diamond_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Diamond_solid,32711,None
+0,/ControlRig/Controls/ControlRig_HalfCircle_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_HalfCircle_1mm,30480,None
+0,/ControlRig/Controls/ControlRig_HalfCircle_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_HalfCircle_3mm,30110,None
+0,/ControlRig/Controls/ControlRig_HalfCircle_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_HalfCircle_solid,19292,None
+0,/ControlRig/Controls/ControlRig_Hexagon_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Hexagon_1mm,16239,None
+0,/ControlRig/Controls/ControlRig_Hexagon_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Hexagon_3mm,16361,None
+0,/ControlRig/Controls/ControlRig_Hexagon_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Hexagon_solid,13263,None
+0,/ControlRig/Controls/ControlRig_Octagon_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Octagon_1mm,20643,None
+0,/ControlRig/Controls/ControlRig_Octagon_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Octagon_3mm,20765,None
+0,/ControlRig/Controls/ControlRig_Octagon_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Octagon_solid,16755,None
+0,/ControlRig/Controls/ControlRig_Pyramid_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Pyramid_1mm,292739,None
+0,/ControlRig/Controls/ControlRig_Pyramid_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Pyramid_3mm,186843,None
+0,/ControlRig/Controls/ControlRig_Pyramid_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Pyramid_solid,15041,None
+0,/ControlRig/Controls/ControlRig_QuarterCircle_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_QuarterCircle_1mm,19607,None
+0,/ControlRig/Controls/ControlRig_QuarterCircle_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_QuarterCircle_3mm,18365,None
+0,/ControlRig/Controls/ControlRig_QuarterCircle_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_QuarterCircle_solid,10571,None
+0,/ControlRig/Controls/ControlRig_RoundedSquare_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedSquare_1mm,73237,None
+0,/ControlRig/Controls/ControlRig_RoundedSquare_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedSquare_3mm,82223,None
+0,/ControlRig/Controls/ControlRig_RoundedSquare_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedSquare_solid,42565,None
+0,/ControlRig/Controls/ControlRig_RoundedTriangle_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedTriangle_1mm,42363,None
+0,/ControlRig/Controls/ControlRig_RoundedTriangle_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedTriangle_3mm,44773,None
+0,/ControlRig/Controls/ControlRig_RoundedTriangle_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedTriangle_solid,24827,None
+0,/ControlRig/Controls/ControlRig_Sphere_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Sphere_1mm,317132,None
+0,/ControlRig/Controls/ControlRig_Sphere_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Sphere_3mm,256222,None
+0,/ControlRig/Controls/ControlRig_Sphere_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Sphere_solid,149492,None
+0,/ControlRig/Controls/ControlRig_Square_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Square_1mm,15000,None
+0,/ControlRig/Controls/ControlRig_Square_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Square_3mm,15634,None
+0,/ControlRig/Controls/ControlRig_Square_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Square_solid,13576,None
+0,/ControlRig/Controls/ControlRig_Star4_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Star4_1mm,20489,None
+0,/ControlRig/Controls/ControlRig_Star4_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Star4_3mm,20611,None
+0,/ControlRig/Controls/ControlRig_Star4_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Star4_solid,16601,None
+0,/ControlRig/Controls/ControlRig_Triangle_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Triangle_1mm,10954,None
+0,/ControlRig/Controls/ControlRig_Triangle_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Triangle_3mm,10954,None
+0,/ControlRig/Controls/ControlRig_Triangle_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Triangle_solid,9474,None
+0,/ControlRig/Controls/ControlRig_Wedge_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Wedge_1mm,251149,None
+0,/ControlRig/Controls/ControlRig_Wedge_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Wedge_3mm,239229,None
+0,/ControlRig/Controls/ControlRig_Wedge_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Wedge_solid,110339,None
+0,/ControlRig/Controls/ControlRigGizmoMaterial,/Script/Engine.Material,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRigGizmoMaterial,4324,None
+0,/ControlRig/Controls/ControlRigXRayMaterial,/Script/Engine.Material,Hard,6790,None
+0,/ControlRig/Controls/DefaultGizmoLibraryNormalized,/Script/ControlRig.ControlRigShapeLibrary,Hard,11530,None
+0,/ControlRig/M_Manip,/Script/Engine.Material,Hard,6793,None
+0,/Engine/Animation/DefaultAnimBoneCompressionSettings,/Script/Engine.AnimBoneCompressionSettings,Hard,2987,None
+0,/Engine/Animation/DefaultAnimCurveCompressionSettings,/Script/Engine.AnimCurveCompressionSettings,Hard,1040,None
+0,/Engine/Animation/DefaultRecorderBoneCompression,/Script/Engine.AnimBoneCompressionSettings,Hard,1026,None
+0,/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane,/Script/Engine.StaticMesh,Hard,7362,None
+0,/Engine/BasicShapes/BasicShapeMaterial,/Script/Engine.Material,Hard,25901,None
+0,/Engine/BasicShapes/Cone,/Script/Engine.StaticMesh,Hard,156441,None
+0,/Engine/BasicShapes/Cube,/Script/Engine.StaticMesh,Hard,134032,None
+0,/Engine/BasicShapes/Cylinder,/Script/Engine.StaticMesh,Hard,186272,None
+0,/Engine/BasicShapes/Plane,/Script/Engine.StaticMesh,Hard,10819,None
+0,/Engine/BasicShapes/Sphere,/Script/Engine.StaticMesh,Hard,221468,None
+0,/Engine/EditorBlueprintResources/StandardMacros,/Script/Engine.Blueprint,Hard,1150,None
+0,/Engine/EditorBlueprintResources/StandardMacros,/Script/Engine.BlueprintGeneratedClass,Hard,1150,None
+0,/Engine/EditorLandscapeResources/DataLayer,/Script/Landscape.LandscapeLayerInfoObject,Hard,746,None
+0,/Engine/EditorLandscapeResources/DefaultAlphaTexture,/Script/Engine.Texture2D,Hard,23103,None
+0,/Engine/EditorLandscapeResources/SplineEditorMesh,/Script/Engine.StaticMesh,Hard,12526,None
+0,/Engine/EditorLandscapeResources/SplineEditorMeshMat,/Script/Engine.Material,Hard,8140,None
+0,/Engine/EditorMaterials/Camera/CineMat,/Script/Engine.Material,Hard,12814,None
+0,/Engine/EditorMaterials/Camera/MI_CineMat_Rig,/Script/Engine.MaterialInstanceConstant,Hard,936,None
+0,/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage,/Script/Engine.Texture2D,Hard,45095,None
+0,/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD,/Script/Engine.Texture2D,Hard,23191,None
+0,/Engine/EditorMaterials/PhAT_NoCollisionMaterial,/Script/Engine.Material,Hard,4060,None
+0,/Engine/EditorMaterials/PhAT_UnselectedMaterial,/Script/Engine.Material,Hard,4057,None
+0,/Engine/EditorMaterials/PreviewShadowIndicator,/Script/Engine.Texture2D,Hard,1399549,None
+0,/Engine/EditorMaterials/PreviewShadowIndicatorMaterial,/Script/Engine.Material,Hard,16248,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Arm,/Script/Engine.StaticMesh,Hard,6420,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Base,/Script/Engine.StaticMesh,Hard,168099,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Body,/Script/Engine.StaticMesh,Hard,189206,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Mount,/Script/Engine.StaticMesh,Hard,26654,None
+0,/Engine/EditorMeshes/Camera/SM_RailRig_Mount,/Script/Engine.StaticMesh,Hard,161883,None
+0,/Engine/EditorMeshes/Camera/SM_RailRig_Track,/Script/Engine.StaticMesh,Hard,138113,None
+0,/Engine/EditorResources/AudioIcons/S_AudioComponent_AutoActivate,/Script/Engine.Texture2D,Hard,350962,None
+0,/Engine/EditorResources/BadBlueprintSprite,/Script/Engine.Texture2D,Hard,88697,None
+0,/Engine/EditorResources/BSPVertex,/Script/Engine.Texture2D,Hard,1467,None
+0,/Engine/EditorResources/EmptyActor,/Script/Engine.Texture2D,Hard,350880,None
+0,/Engine/EditorResources/LightIcons/S_LightError,/Script/Engine.Texture2D,Hard,350911,None
+0,/Engine/EditorResources/S_Actor,/Script/Engine.Texture2D,Hard,88648,None
+0,/Engine/EditorResources/S_BoxReflectionCapture,/Script/Engine.Texture2D,Hard,350916,None
+0,/Engine/EditorResources/S_Solver,/Script/Engine.Texture2D,Hard,350871,None
+0,/Engine/EditorResources/S_Terrain,/Script/Engine.Texture2D,Hard,350874,None
+0,/Engine/EditorResources/S_Trigger,/Script/Engine.Texture2D,Hard,350874,None
+0,/Engine/EditorResources/S_TriggerBox,/Script/Engine.Texture2D,Hard,350886,None
+0,/Engine/EditorResources/S_TriggerCapsule,/Script/Engine.Texture2D,Hard,350898,None
+0,/Engine/EditorResources/S_TriggerSphere,/Script/Engine.Texture2D,Hard,350895,None
+0,/Engine/EditorResources/SequenceRecorder/Countdown,/Script/Engine.Texture2D,Hard,148355,None
+0,/Engine/EditorResources/SequenceRecorder/RecordingIndicator,/Script/Engine.Texture2D,Hard,1950,None
+0,/Engine/EngineDamageTypes/DmgTypeBP_Environmental,/Script/Engine.Blueprint,Hard,1238,None
+0,/Engine/EngineDamageTypes/DmgTypeBP_Environmental,/Script/Engine.BlueprintGeneratedClass,Hard,1238,None
+0,/Engine/EngineDebugMaterials/DebugEditorMaterial,/Script/Engine.Material,Hard,6219,None
+0,/Engine/EngineDebugMaterials/DebugMeshMaterial,/Script/Engine.Material,Hard,5036,None
+0,/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent,/Script/Engine.Material,Hard,4159,None
+0,/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP,/Script/Engine.Material,Hard,6937,None
+0,/Engine/EngineDebugMaterials/VolumeToRender,/Script/Engine.VolumeTexture,Hard,8903,None
+0,/Engine/EngineFonts/Faces/DroidSansFallback,/Script/Engine.FontFace,Hard,3940619,None
+0,/Engine/EngineFonts/Faces/RobotoBold,/Script/Engine.FontFace,Hard,164161,None
+0,/Engine/EngineFonts/Faces/RobotoBoldItalic,/Script/Engine.FontFace,Hard,166609,None
+0,/Engine/EngineFonts/Faces/RobotoItalic,/Script/Engine.FontFace,Hard,161465,None
+0,/Engine/EngineFonts/Faces/RobotoLight,/Script/Engine.FontFace,Hard,171138,None
+0,/Engine/EngineFonts/Faces/RobotoRegular,/Script/Engine.FontFace,Hard,159329,None
+0,/Engine/EngineFonts/Roboto,/Script/Engine.Font,Hard,1719,None
+0,/Engine/EngineFonts/RobotoDistanceField,/Script/Engine.Font,Hard,137664,None
+0,/Engine/EngineMaterials/BaseFlattenDiffuseMap,/Script/Engine.Texture2D,Hard,1894,None
+0,/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT,/Script/Engine.Texture2D,Hard,1906,None
+0,/Engine/EngineMaterials/BaseFlattenEmissiveMap,/Script/Engine.Texture2D,Hard,1894,None
+0,/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT,/Script/Engine.Texture2D,Hard,1906,None
+0,/Engine/EngineMaterials/BaseFlattenGrayscaleMap,/Script/Engine.Texture2D,Hard,2571,None
+0,/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT,/Script/Engine.Texture2D,Hard,2583,None
+0,/Engine/EngineMaterials/BaseFlattenLinearColor,/Script/Engine.Texture2D,Hard,1900,None
+0,/Engine/EngineMaterials/BaseFlattenLinearColor_VT,/Script/Engine.Texture2D,Hard,1912,None
+0,/Engine/EngineMaterials/BaseFlattenNormalMap,/Script/Engine.Texture2D,Hard,913,None
+0,/Engine/EngineMaterials/BaseFlattenNormalMap_VT,/Script/Engine.Texture2D,Hard,925,None
+0,/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT,/Script/Engine.Texture2D,Hard,932,None
+0,/Engine/EngineMaterials/DefaultBloomKernel,/Script/Engine.Texture2D,Hard,33555337,None
+0,/Engine/EngineMaterials/DefaultBokeh,/Script/Engine.Texture2D,Hard,23086,None
+0,/Engine/EngineMaterials/DefaultCalibrationColor,/Script/Engine.Texture2D,Hard,1037704,None
+0,/Engine/EngineMaterials/DefaultCalibrationGrayscale,/Script/Engine.Texture2D,Hard,8295327,None
+0,/Engine/EngineMaterials/DefaultDeferredDecalMaterial,/Script/Engine.Material,Hard,33315,None
+0,/Engine/EngineMaterials/DefaultDestructiblePhysicalMaterial,/Script/PhysicsCore.PhysicalMaterial,Hard,755,None
+0,/Engine/EngineMaterials/DefaultDiffuse,/Script/Engine.Texture2D,Hard,700538,None
+0,/Engine/EngineMaterials/DefaultLightFunctionMaterial,/Script/Engine.Material,Hard,15193,None
+0,/Engine/EngineMaterials/DefaultMaterial,/Script/Engine.Material,Hard,45304,None
+0,/Engine/EngineMaterials/DefaultPhysicalMaterial,/Script/PhysicsCore.PhysicalMaterial,Hard,715,None
+0,/Engine/EngineMaterials/DefaultPostProcessMaterial,/Script/Engine.Material,Hard,5807,None
+0,/Engine/EngineMaterials/DefaultTextMaterialOpaque,/Script/Engine.Material,Hard,15561,None
+0,/Engine/EngineMaterials/DefaultWhiteGrid,/Script/Engine.Texture2D,Hard,12236,None
+0,/Engine/EngineMaterials/DefaultWhiteGrid_Low,/Script/Engine.Texture2D,Hard,904,None
+0,/Engine/EngineMaterials/EmissiveMeshMaterial,/Script/Engine.Material,Hard,5417,None
+0,/Engine/EngineMaterials/FlattenMaterial,/Script/Engine.Material,Hard,19877,None
+0,/Engine/EngineMaterials/FlattenMaterial_VT,/Script/Engine.Material,Hard,19887,None
+0,/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT,/Script/Engine.Material,Hard,19920,None
+0,/Engine/EngineMaterials/GizmoMaterial,/Script/Engine.Material,Hard,6008,None
+0,/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq,/Script/Engine.Texture2D,Hard,5017,None
+0,/Engine/EngineMaterials/InvalidLightmapSettings,/Script/Engine.Texture2D,Hard,176217,None
+0,/Engine/EngineMaterials/M_InvalidLightmapSettings,/Script/Engine.Material,Hard,13052,None
+0,/Engine/EngineMaterials/MiniFont,/Script/Engine.Texture2D,Hard,2906,None
+0,/Engine/EngineMaterials/NaniteHiddenSectionMaterial,/Script/Engine.Material,Hard,14345,None
+0,/Engine/EngineMaterials/PhAT_JointLimitMaterial,/Script/Engine.Material,Hard,6884,None
+0,/Engine/EngineMaterials/PPM_DefaultCalibrationColor,/Script/Engine.Material,Hard,4605,None
+0,/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale,/Script/Engine.Material,Hard,4622,None
+0,/Engine/EngineMaterials/PreintegratedSkinBRDF,/Script/Engine.Texture2D,Hard,263047,None
+0,/Engine/EngineMaterials/RemoveSurfaceMaterial,/Script/Engine.Material,Hard,4102,None
+0,/Engine/EngineMaterials/STBlueNoise_scalar_128x128x64,/Script/Engine.Texture2D,Hard,1049500,None
+0,/Engine/EngineMaterials/STBlueNoise_vec2_128x128x64,/Script/Engine.Texture2D,Hard,4195234,None
+0,/Engine/EngineMaterials/T_Default_Material_Grid_M,/Script/Engine.Texture2D,Hard,351002,None
+0,/Engine/EngineMaterials/T_Default_Material_Grid_N,/Script/Engine.Texture2D,Hard,88802,None
+0,/Engine/EngineMaterials/WeightMapPlaceholderTexture,/Script/Engine.Texture2D,Hard,1001,None
+0,/Engine/EngineMaterials/Widget3DPassThrough,/Script/Engine.Material,Hard,4870,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Masked,/Script/Engine.MaterialInstanceConstant,Hard,10939,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided,/Script/Engine.MaterialInstanceConstant,Hard,10960,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Opaque,/Script/Engine.MaterialInstanceConstant,Hard,6401,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided,/Script/Engine.MaterialInstanceConstant,Hard,4724,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Translucent,/Script/Engine.MaterialInstanceConstant,Hard,5538,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided,/Script/Engine.MaterialInstanceConstant,Hard,4671,None
+0,/Engine/EngineMaterials/WorldGridMaterial,/Script/Engine.Material,Hard,206667,None
+0,/Engine/EngineMeshes/Sphere,/Script/Engine.StaticMesh,Hard,453232,None
+0,/Engine/EngineResources/Black,/Script/Engine.Texture2D,Hard,1827,None
+0,/Engine/EngineResources/DefaultTexture,/Script/Engine.Texture2D,Hard,12214,None
+0,/Engine/EngineResources/DefaultTextureCube,/Script/Engine.TextureCube,Hard,66902,None
+0,/Engine/EngineResources/DefaultVolumeTexture,/Script/Engine.VolumeTexture,Hard,1162,None
+0,/Engine/EngineResources/DefaultVolumeTexture2D,/Script/Engine.Texture2D,Hard,1139,None
+0,/Engine/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000,/Script/Engine.Texture2D,Hard,17323,None
+0,/Engine/EngineResources/GradientTexture0,/Script/Engine.Texture2D,Hard,6654,None
+0,/Engine/EngineResources/WhiteSquareTexture,/Script/Engine.Texture2D,Hard,1866,None
+0,/Engine/EngineSky/BP_Sky_Sphere,/Script/Engine.Blueprint,Hard,18121,None
+0,/Engine/EngineSky/BP_Sky_Sphere,/Script/Engine.BlueprintGeneratedClass,Hard,18121,None
+0,/Engine/EngineSky/C_Sky_Cloud_Color,/Script/Engine.CurveLinearColor,Hard,1186,None
+0,/Engine/EngineSky/C_Sky_Horizon_Color,/Script/Engine.CurveLinearColor,Hard,1192,None
+0,/Engine/EngineSky/C_Sky_Zenith_Color,/Script/Engine.CurveLinearColor,Hard,1270,None
+0,/Engine/EngineSky/M_Sky_Panning_Clouds2,/Script/Engine.Material,Hard,7409,None
+0,/Engine/EngineSky/SM_SkySphere,/Script/Engine.StaticMesh,Hard,2109508,None
+0,/Engine/EngineSky/T_Sky_Blue,/Script/Engine.Texture2D,Hard,2797730,None
+0,/Engine/EngineSky/T_Sky_Clouds_M,/Script/Engine.Texture2D,Hard,700472,None
+0,/Engine/EngineSky/T_Sky_Stars,/Script/Engine.Texture2D,Hard,176172,None
+0,/Engine/EngineSky/VolumetricClouds/CloudGradientTexture,/Script/Engine.Texture2D,Hard,1579,None
+0,/Engine/EngineSky/VolumetricClouds/CloudWeatherTexture,/Script/Engine.Texture2D,Hard,131996,None
+0,/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud,/Script/Engine.Material,Hard,32022,None
+0,/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst,/Script/Engine.MaterialInstanceConstant,Hard,1562,None
+0,/Engine/EngineSky/VolumetricClouds/T_NoiseErosion,/Script/Engine.Texture2D,Hard,23520,None
+0,/Engine/EngineSky/VolumetricClouds/T_NoiseShape64,/Script/Engine.Texture2D,Hard,176728,None
+0,/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32,/Script/Engine.VolumeTexture,Hard,17315,None
+0,/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64,/Script/Engine.VolumeTexture,Hard,131997,None
+0,/Engine/EngineSounds/Master,/Script/Engine.SoundClass,Hard,644,None
+0,/Engine/EngineSounds/Submixes/MasterEQEffectPreset,/Script/AudioMixer.SubmixEffectSubmixEQPreset,Hard,737,None
+0,/Engine/EngineSounds/Submixes/MasterEQSubmixDefault,/Script/Engine.SoundSubmix,Hard,1092,None
+0,/Engine/EngineSounds/Submixes/MasterReverbEffectPreset,/Script/AudioMixer.SubmixEffectReverbPreset,Hard,745,None
+0,/Engine/EngineSounds/Submixes/MasterReverbSubmixDefault,/Script/Engine.SoundSubmix,Hard,1111,None
+0,/Engine/EngineSounds/Submixes/MasterSubmixDefault,/Script/Engine.SoundSubmix,Hard,1036,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient,/Script/Engine.MaterialFunction,Hard,811,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade,/Script/Engine.MaterialFunction,Hard,887,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec,/Script/Engine.MaterialFunction,Hard,772,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness,/Script/Engine.MaterialFunction,Hard,763,None
+0,/Engine/Functions/Engine_MaterialFunctions02/ObjectLocalBounds,/Script/Engine.MaterialFunction,Hard,753,None
+0,/Engine/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture,/Script/Engine.Texture2D,Hard,990,None
+0,/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize,/Script/Engine.MaterialFunction,Hard,955,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components,/Script/Engine.MaterialFunction,Hard,901,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components,/Script/Engine.MaterialFunction,Hard,901,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector,/Script/Engine.MaterialFunction,Hard,830,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2,/Script/Engine.MaterialFunction,Hard,809,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorLength,/Script/Engine.MaterialFunction,Hard,784,None
+0,/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW,/Script/Engine.MaterialFunction,Hard,835,None
+0,/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset,/Script/Engine.MaterialFunction,Hard,890,None
+0,/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale,/Script/Engine.MaterialFunction,Hard,879,None
+0,/Engine/Maps/Entry,/Script/Engine.World,Hard,11287,None
+0,/Engine/Maps/Entry_BuiltData,/Script/Engine.MapBuildDataRegistry,Hard,24643,None
+0,/Engine/MobileResources/HUD/DefaultVirtualJoysticks,/Script/Engine.TouchInterface,Hard,1374,None
+0,/Engine/MobileResources/HUD/VirtualJoystick_Background,/Script/Engine.Texture2D,Hard,263076,None
+0,/Engine/MobileResources/HUD/VirtualJoystick_Thumb,/Script/Engine.Texture2D,Hard,17301,None
+0,/Engine/VREditor/BasicMeshes/M_Floor_01,/Script/Engine.Material,Hard,13187,None
+0,/Engine/VREditor/BasicMeshes/MI_Cube_03,/Script/Engine.MaterialInstanceConstant,Hard,1130,None
+0,/Engine/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D,/Script/Engine.Texture2D,Hard,700575,None
+0,/Engine/VREditor/LaserPointer/VR_LaserPower_01,/Script/Engine.Texture2D,Hard,176208,None
+0,/Engine/VREditor/TransformGizmo/BoundingBoxCorner,/Script/Engine.StaticMesh,Hard,15529,None
+0,/Engine/VREditor/TransformGizmo/BoundingBoxEdge,/Script/Engine.StaticMesh,Hard,8977,None
+0,/Engine/VREditor/TransformGizmo/Main,/Script/Engine.Material,Hard,4264,None
+0,/Engine/VREditor/TransformGizmo/PlaneTranslationHandle,/Script/Engine.StaticMesh,Hard,15686,None
+0,/Engine/VREditor/TransformGizmo/SM_Sequencer_Node,/Script/Engine.StaticMesh,Hard,13842,None
+0,/Engine/VREditor/TransformGizmo/TransformGizmoMaterial,/Script/Engine.Material,Hard,4623,None
+0,/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial,/Script/Engine.Material,Hard,4303,None
+0,/Engine/VREditor/TransformGizmo/Xray,/Script/Engine.Material,Hard,8361,None
+0,/Game/FirstPerson/Blueprints/BP_ExplosionArma,/Script/Engine.Blueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma,2693,None
+0,/Game/FirstPerson/Blueprints/BP_ExplosionArma,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma,2693,None
+0,/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter,/Script/Engine.Blueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter,30831,None
+0,/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter,30831,None
+0,/Game/FirstPerson/Blueprints/BP_Pickup_Rifle,/Script/Engine.Blueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle,9122,None
+0,/Game/FirstPerson/Blueprints/BP_Pickup_Rifle,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle,9122,None
+0,/Game/FirstPerson/Blueprints/BP_Weapon_Component,/Script/Engine.Blueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component,4979,None
+0,/Game/FirstPerson/Blueprints/BP_Weapon_Component,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component,4979,None
+0,/Game/FirstPerson/Blueprints/NS_ExplosionArma,/Script/Niagara.NiagaraSystem,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma,20189,None
+0,/Game/HealthAndDamage/BP_BurningGround,/Script/Engine.Blueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround,6614,None
+0,/Game/HealthAndDamage/BP_BurningGround,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround,6614,None
+0,/Game/HealthAndDamage/BP_HealthComponent,/Script/Engine.Blueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_HealthPickup->/Game/HealthAndDamage/BP_HealthComponent,5984,None
+0,/Game/HealthAndDamage/BP_HealthComponent,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_HealthPickup->/Game/HealthAndDamage/BP_HealthComponent,5984,None
+0,/Game/HealthAndDamage/BP_HealthPickup,/Script/Engine.Blueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_HealthPickup,6375,None
+0,/Game/HealthAndDamage/BP_HealthPickup,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_HealthPickup,6375,None
+0,/Game/HealthAndDamage/WBP_BarraHealthUI,/Script/UMGEditor.WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter->/Game/HealthAndDamage/WBP_BarraHealthUI,4196,None
+0,/Game/HealthAndDamage/WBP_BarraHealthUI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter->/Game/HealthAndDamage/WBP_BarraHealthUI,4196,None
+0,/Game/MapaNivelMartin/Minimal_Default1,/Script/Engine.World,Soft From Unassigned Package? Best Guess: /Game/MapaNivelMartin/Minimal_Default1,23602,None
+0,/Game/MapaNivelMartin/Minimal_Default1,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/MapaNivelMartin/Minimal_Default1,23602,None
+0,/Game/Men?Principal/ImagendelMen?Principal/Zombies,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/Men?Principal/ImagendelMen?Principal/Zombies,1037796,None
+0,/Game/Men?Principal/Men?Principal,/Script/Engine.World,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal,18966,None
+0,/Game/Men?Principal/Men?Principal,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal,18966,None
+0,/Game/Men?Principal/ModoJuegoMen?,/Script/Engine.Blueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?,4823,None
+0,/Game/Men?Principal/ModoJuegoMen?,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?,4823,None
+0,/Game/Men?Principal/PawnEstatico,/Script/Engine.Blueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/PawnEstatico,2718,None
+0,/Game/Men?Principal/PawnEstatico,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/PawnEstatico,2718,None
+0,/Game/Men?Principal/WBP_Men?Opciones,/Script/UMGEditor.WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/Men?Principal/WBP_Men?Opciones,7075,None
+0,/Game/Men?Principal/WBP_Men?Opciones,/Script/UMG.WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/Men?Principal/WBP_Men?Opciones,7075,None
+0,/Game/Men?Principal/WBP_Men?Principal,/Script/UMGEditor.WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal,9014,None
+0,/Game/Men?Principal/WBP_Men?Principal,/Script/UMG.WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal,9014,None
+0,/Game/Meshes/MeshDelReloj,/Script/Engine.StaticMesh,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/Meshes/MeshDelReloj,233805,None
+0,/Game/StarterContent/Architecture/Floor_400x400,/Script/Engine.StaticMesh,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Architecture/Floor_400x400,91527,None
+0,/Game/StarterContent/Audio/Fire01,/Script/Engine.SoundWave,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Audio/Fire01_Cue->/Game/StarterContent/Audio/Fire01,126614,None
+0,/Game/StarterContent/Audio/Fire01_Cue,/Script/Engine.SoundCue,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Audio/Fire01_Cue,1159,None
+0,/Game/StarterContent/Audio/Starter_Background_Cue,/Script/Engine.SoundCue,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Audio/Starter_Background_Cue,2441,None
+0,/Game/StarterContent/Audio/Starter_Birds01,/Script/Engine.SoundWave,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Audio/Starter_Background_Cue->/Game/StarterContent/Audio/Starter_Birds01,563651,None
+0,/Game/StarterContent/Audio/Starter_Wind05,/Script/Engine.SoundWave,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Audio/Starter_Background_Cue->/Game/StarterContent/Audio/Starter_Wind05,471030,None
+0,/Game/StarterContent/Audio/Starter_Wind06,/Script/Engine.SoundWave,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Audio/Starter_Background_Cue->/Game/StarterContent/Audio/Starter_Wind06,651432,None
+0,/Game/StarterContent/Maps/Minimal_Default,/Script/Engine.World,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default,22522,None
+0,/Game/StarterContent/Maps/Minimal_Default,/Script/Engine.BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default,22522,None
+0,/Game/StarterContent/Maps/Minimal_Default_BuiltData,/Script/Engine.MapBuildDataRegistry,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Maps/Minimal_Default_BuiltData,3394623,None
+0,/Game/StarterContent/Materials/M_Basic_Floor,/Script/Engine.Material,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Architecture/Floor_400x400->/Game/StarterContent/Materials/M_Basic_Floor,12149,None
+0,/Game/StarterContent/Materials/M_Basic_Wall,/Script/Engine.Material,Soft From Unassigned Package? Best Guess: /Game/StarterContent/Maps/StarterMap->/Game/StarterContent/Architecture/Wall_Door_400x300->/Game/StarterContent/Materials/M_Basic_Wall,12146,None
+0,/Game/StarterContent/Materials/M_Ceramic_Tile_Checker,/Script/Engine.Material,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Materials/M_Ceramic_Tile_Checker,13086,None
+0,/Game/StarterContent/Particles/Materials/M_Fire_SubUV,/Script/Engine.Material,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Particles/P_Fire->/Game/StarterContent/Particles/Materials/M_Fire_SubUV,7228,None
+0,/Game/StarterContent/Particles/Materials/M_Heat_Distortion,/Script/Engine.Material,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Particles/P_Fire->/Game/StarterContent/Particles/Materials/M_Heat_Distortion,11008,None
+0,/Game/StarterContent/Particles/Materials/M_Radial_Gradient,/Script/Engine.Material,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Particles/P_Fire->/Game/StarterContent/Particles/Materials/M_Radial_Gradient,7977,None
+0,/Game/StarterContent/Particles/Materials/M_smoke_subUV,/Script/Engine.Material,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Particles/P_Fire->/Game/StarterContent/Particles/Materials/M_smoke_subUV,22110,None
+0,/Game/StarterContent/Particles/P_Fire,/Script/Engine.ParticleSystem,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Particles/P_Fire,43167,None
+0,/Game/StarterContent/Textures/T_Ceramic_Tile_M,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Materials/M_Ceramic_Tile_Checker->/Game/StarterContent/Textures/T_Ceramic_Tile_M,700566,None
+0,/Game/StarterContent/Textures/T_Ceramic_Tile_N,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Materials/M_Ceramic_Tile_Checker->/Game/StarterContent/Textures/T_Ceramic_Tile_N,5593991,None
+0,/Game/StarterContent/Textures/T_Fire_SubUV,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Particles/P_Fire->/Game/StarterContent/Particles/Materials/M_Fire_SubUV->/Game/StarterContent/Textures/T_Fire_SubUV,700544,None
+0,/Game/StarterContent/Textures/T_Fire_Tiled_D,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Particles/P_Fire->/Game/StarterContent/Particles/Materials/M_Fire_SubUV->/Game/StarterContent/Textures/T_Fire_Tiled_D,176202,None
+0,/Game/StarterContent/Textures/T_Perlin_Noise_M,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Materials/M_Ceramic_Tile_Checker->/Game/StarterContent/Textures/T_Perlin_Noise_M,2797774,None
+0,/Game/StarterContent/Textures/T_Rock_Marble_Polished_D,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/StarterContent/Materials/M_Ceramic_Tile_Checker->/Game/StarterContent/Textures/T_Rock_Marble_Polished_D,2797792,None
+0,/Game/StarterContent/Textures/T_Smoke_SubUV,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Particles/P_Fire->/Game/StarterContent/Particles/Materials/M_smoke_subUV->/Game/StarterContent/Textures/T_Smoke_SubUV,1399620,None
+0,/Game/StarterContent/Textures/T_Smoke_Tiled_D,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Particles/P_Fire->/Game/StarterContent/Particles/Materials/M_smoke_subUV->/Game/StarterContent/Textures/T_Smoke_Tiled_D,45073,None
+0,/Game/StarterContent/Textures/T_Water_N,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/HealthAndDamage/BP_BurningGround->/Game/StarterContent/Particles/P_Fire->/Game/StarterContent/Particles/Materials/M_Heat_Distortion->/Game/StarterContent/Textures/T_Water_N,1399610,None
+0,/Interchange/Pipelines/DefaultAssetsPipeline,/Script/InterchangePipelines.InterchangeGenericAssetsPipeline,Soft From Unassigned Package? Best Guess: /Interchange/Pipelines/DefaultAssetsPipeline,6398,None
+0,/Interchange/Pipelines/DefaultMaterialPipeline,/Script/InterchangePipelines.InterchangeGenericMaterialPipeline,Soft From Unassigned Package? Best Guess: /Interchange/Pipelines/DefaultMaterialPipeline,1139,None
+0,/Interchange/Pipelines/DefaultSceneAssetsPipeline,/Script/InterchangePipelines.InterchangeGenericAssetsPipeline,Soft From Unassigned Package? Best Guess: /Interchange/Pipelines/DefaultSceneAssetsPipeline,6326,None
+0,/Interchange/Pipelines/DefaultSceneLevelPipeline,/Script/InterchangePipelines.InterchangeGenericLevelPipeline,Soft From Unassigned Package? Best Guess: /Interchange/Pipelines/DefaultSceneLevelPipeline,758,None
+0,/Interchange/Pipelines/DefaultTexturePipeline,/Script/InterchangePipelines.InterchangeGenericTexturePipeline,Soft From Unassigned Package? Best Guess: /Interchange/Pipelines/DefaultTexturePipeline,976,None
+0,/MediaPlate/SM_MediaPlateScreen,/Script/Engine.StaticMesh,Hard,10825,None
+0,/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor,/Script/Engine.Material,Hard,10912,None
+0,/Niagara/DefaultAssets/DefaultSpriteMaterial,/Script/Engine.Material,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/DefaultAssets/DefaultSpriteMaterial,16076,None
+0,/Niagara/Enums/Angles/ENiagara_AngleInput,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Angles/ENiagara_AngleInput,1228,None
+0,/Niagara/Enums/ENiagara_AttributeSamplingApplyOutput,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagara_AttributeSamplingApplyOutput,1154,None
+0,/Niagara/Enums/ENiagara_ColorInitializationMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagara_ColorInitializationMode,1479,None
+0,/Niagara/Enums/ENiagara_EmitterStateOptions,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagara_EmitterStateOptions,1261,None
+0,/Niagara/Enums/ENiagara_InfiniteLoopDuration,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagara_InfiniteLoopDuration,1108,None
+0,/Niagara/Enums/ENiagara_LifetimeMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagara_LifetimeMode,1063,None
+0,/Niagara/Enums/ENiagara_MassInitializationMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagara_MassInitializationMode,1297,None
+0,/Niagara/Enums/ENiagara_PositionInitializationMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagara_PositionInitializationMode,1324,None
+0,/Niagara/Enums/ENiagara_SizeScaleMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagara_SizeScaleMode,1546,None
+0,/Niagara/Enums/ENiagara_SpriteRotationMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagara_SpriteRotationMode,1447,None
+0,/Niagara/Enums/ENiagara_UVFlippingMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagara_UVFlippingMode,1539,None
+0,/Niagara/Enums/ENiagaraChannelCorrelation,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraChannelCorrelation,1297,None
+0,/Niagara/Enums/ENiagaraEmitterLifeCycleMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraEmitterLifeCycleMode,1119,None
+0,/Niagara/Enums/ENiagaraEmitterScalabilityMode_Limited,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraEmitterScalabilityMode_Limited,1181,None
+0,/Niagara/Enums/ENiagaraExecutionStateManagement,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Modules/Emitter/EmitterState->/Niagara/Enums/ENiagaraExecutionStateManagement,1709,None
+0,/Niagara/Enums/ENiagaraExpansionMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Modules/Spawn/Location/V2/ShapeLocation->/Niagara/Enums/ENiagaraExpansionMode,1226,None
+0,/Niagara/Enums/ENiagaraInactiveMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraInactiveMode,1354,None
+0,/Niagara/Enums/ENiagaraRandomnessEvaluation,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraRandomnessEvaluation,1130,None
+0,/Niagara/Enums/ENiagaraRandomnessMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraRandomnessMode,1263,None
+0,/Niagara/Enums/ENiagaraScaleColorMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraScaleColorMode,1273,None
+0,/Niagara/Enums/ENiagaraShapeTorusMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraShapeTorusMode,1081,None
+0,/Niagara/Enums/ENiagaraSphereDistributionMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraSphereDistributionMode,1296,None
+0,/Niagara/Enums/ENiagaraSystemInactiveMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraSystemInactiveMode,1188,None
+0,/Niagara/Enums/ENiagaraTorusDistributionMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/ENiagaraTorusDistributionMode,1128,None
+0,/Niagara/Enums/Location/ENiagara_BoxPlaneMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Location/ENiagara_BoxPlaneMode,1073,None
+0,/Niagara/Enums/Location/ENiagara_ConeMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Location/ENiagara_ConeMode,1070,None
+0,/Niagara/Enums/Location/ENiagara_CylinderMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Location/ENiagara_CylinderMode,1077,None
+0,/Niagara/Enums/Location/ENiagara_LocationShapes,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Location/ENiagara_LocationShapes,1710,None
+0,/Niagara/Enums/Location/ENiagaraRingDiscMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Location/ENiagaraRingDiscMode,1084,None
+0,/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet,1090,None
+0,/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom,1285,None
+0,/Niagara/Enums/Transforms/ENiagara_OffsetMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Transforms/ENiagara_OffsetMode,1068,None
+0,/Niagara/Enums/Transforms/ENiagara_RotationMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Transforms/ENiagara_RotationMode,1704,None
+0,/Niagara/Enums/Transforms/ENiagara_ScaleMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Transforms/ENiagara_ScaleMode,1062,None
+0,/Niagara/Enums/Transforms/ENiagara_TransformOrder,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Transforms/ENiagara_TransformOrder,1127,None
+0,/Niagara/Enums/Transforms/ENiagara_TransformType,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Transforms/ENiagara_TransformType,1095,None
+0,/Niagara/Enums/Utility/ENiagara_VelocityMode,/Script/Engine.UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Enums/Utility/ENiagara_VelocityMode,1231,None
+0,/Niagara/Icons/Modules/T_Icon_Particle_InfiniteLife,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Modules/Update/Lifetime/ParticleState->/Niagara/Icons/Modules/T_Icon_Particle_InfiniteLife,17312,None
+0,/Niagara/Icons/Modules/T_Icon_Solver_LimitAccel,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Modules/Solvers/SolveForcesAndVelocity->/Niagara/Icons/Modules/T_Icon_Solver_LimitAccel,17300,None
+0,/Niagara/Icons/Modules/T_Icon_Solver_LimitSpeed,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Modules/Solvers/SolveForcesAndVelocity->/Niagara/Icons/Modules/T_Icon_Solver_LimitSpeed,17300,None
+0,/Niagara/Icons/Modules/T_Icon_Solver_RotationalSolve,/Script/Engine.Texture2D,Soft From Unassigned Package? Best Guess: /Game/Men?Principal/Men?Principal->/Game/Men?Principal/ModoJuegoMen?->/Game/Men?Principal/WBP_Men?Principal->/Game/StarterContent/Maps/Minimal_Default->/Game/FirstPerson/Blueprints/BP_Pickup_Rifle->/Game/FirstPerson/Blueprints/BP_Weapon_Component->/Game/FirstPerson/Blueprints/BP_ExplosionArma->/Game/FirstPerson/Blueprints/NS_ExplosionArma->/Niagara/Modules/Solvers/SolveForcesAndVelocity->/Niagara/Icons/Modules/T_Icon_Solver_RotationalSolve,17315,None
+0,/Paper2D/DefaultPaperTerrainMaterial,/Script/Paper2D.PaperTerrainMaterial,Hard,858,None
+0,/Paper2D/DefaultSpriteMaterial,/Script/Engine.Material,Hard,16337,None
+0,/Paper2D/DummySprite,/Script/Paper2D.PaperSprite,Hard,1436,None
+0,/Paper2D/MaskedUnlitSpriteMaterial,/Script/Engine.MaterialInstanceConstant,Hard,939,None
+0,/Paper2D/OpaqueUnlitSpriteMaterial,/Script/Engine.MaterialInstanceConstant,Hard,8322,None
+0,/Paper2D/PlaceholderTextures/DummySpriteTexture,/Script/Engine.Texture2D,Hard,23188,None
+0,/SpeedTreeImporter/SpeedTree9/Empty,/Script/Engine.Texture2D,Hard,1027,None
+0,/SpeedTreeImporter/SpeedTree9/EmptyNormal,/Script/Engine.Texture2D,Hard,1027,None
+0,/SpeedTreeImporter/SpeedTree9/game_wind_noise,/Script/Engine.Texture2D,Hard,1399543,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboard,/Script/Engine.MaterialFunction,Hard,723,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster,/Script/Engine.Material,Hard,30209,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeBranchMotion,/Script/Engine.MaterialFunction,Hard,732,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeCameraFacing,/Script/Engine.MaterialFunction,Hard,735,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster,/Script/Engine.Material,Hard,41516,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeWind,/Script/Engine.MaterialFunction,Hard,711,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeWindMotion,/Script/Engine.MaterialFunction,Hard,757,None
+0,/SpeedTreeImporter/SpeedTree9/UnpackDirection,/Script/Engine.MaterialFunction,Hard,717,None
+0,/SpeedTreeImporter/SpeedTree9/UnpackInteger3,/Script/Engine.MaterialFunction,Hard,711,None
